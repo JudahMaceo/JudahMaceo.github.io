@@ -1,22 +1,16 @@
+/*questions
+-background image opacity*/
+
+*{
+
+}
 #head-shot{
   height:240px;
   width:180px;
   float:right;
-  /*background:blue;*/
+  border:4px solid black;
+}
+
+.container{
   border:2px solid black;
-}
-
-#expression-logo{
-  /*width:194px;
-  height:75px;*/
-
-}
-
-#bu-logo{
-  /*width:75px;
-  height:75px;*/
-}
-
-.tweet-container{
-  /*background:blue;*/
 }
